@@ -14,11 +14,11 @@ A hands-on project focused on learning **Spring Beans** and **Dependency Injecti
 git checkout master  # Main code is in master branch
 
 # Run using IntelliJ IDEA (Recommended)
-# 1. Click Run button in IntelliJ
-# 2. Or use Run Configuration with profile arguments
+ 1. Click Run button in IntelliJ
+ 2. Or use Run Configuration with profile arguments
 
 # Alternative: Set profile in application.properties
-# spring.profiles.active=dev
+ spring.profiles.active=dev
             OR
 # Run with default profile
 mvn spring-boot:run
