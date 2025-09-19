@@ -1,4 +1,4 @@
-# 🌱 Spring Boot Introduction Project
+# 🌱 Spring Boot Introduction 
 
 A hands-on project focused on learning **Spring Beans** and **Dependency Injection** concepts.
 
@@ -19,7 +19,9 @@ git checkout master  # Main code is in master branch
 
 # Alternative: Set profile in application.properties
  spring.profiles.active=dev
+
             OR
+
 # Run with default profile
 mvn spring-boot:run
 
