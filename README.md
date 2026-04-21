@@ -115,9 +115,11 @@ cd springboot-introduction
 1. Open project in IntelliJ
 2. Run → **Edit Configurations**
 3. Program arguments: `--spring.profiles.active=dev` or `--spring.profiles.active=prod`
-   OR
+
+      OR
+   
    Environment variables: `DEPLOY_ENV=development` or `DEPLOY_ENV=production`
-4. Click **Run ▶️**
+5. Click **Run ▶️**
 
 **Using Maven:**
 ```bash
@@ -147,7 +149,6 @@ src/main/java/com/springboot/introduction/
 ## 💻 Technologies
 - **Java 21** | **Spring Boot** | **Maven**
 - Spring Core (IoC & DI)
-- Spring Profiles & Conditional Beans
 
 ---
 
